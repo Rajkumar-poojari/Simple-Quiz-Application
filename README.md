@@ -26,7 +26,10 @@ This is a **command-line quiz application** built with **Python 3**. It quizzes 
 ## 🗂️ Project Structure
 quiz-app/
 ├── quiz_app.py # Main Python script
+
 ├── question.json # Contains all quiz questions (editable)
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Dependency list (empty – no external libs)
 
